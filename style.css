@@ -1,0 +1,24 @@
+body{
+    background-color: #D5E1EF;
+}
+.container{
+    background-color: white;
+    width: 320px;
+    padding: 12px;
+    border-radius: 12px;
+    margin:auto;
+    margin-top: 100px; 
+    padding-bottom: 20px;
+}
+.container img{
+    max-width: 100%; 
+    border-radius: 12px;
+}
+.container h1{
+    color: #1F314F; 
+    text-align: center
+}
+p{
+    color: #7D889E; 
+    text-align: center; 
+}
